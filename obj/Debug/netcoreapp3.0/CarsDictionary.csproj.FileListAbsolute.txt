@@ -1,0 +1,11 @@
+/Users/erictaylor/workspace/csharp/exercises/CarsDictionary/obj/Debug/netcoreapp3.0/CarsDictionary.csprojAssemblyReference.cache
+/Users/erictaylor/workspace/csharp/exercises/CarsDictionary/obj/Debug/netcoreapp3.0/CarsDictionary.AssemblyInfoInputs.cache
+/Users/erictaylor/workspace/csharp/exercises/CarsDictionary/obj/Debug/netcoreapp3.0/CarsDictionary.AssemblyInfo.cs
+/Users/erictaylor/workspace/csharp/exercises/CarsDictionary/bin/Debug/netcoreapp3.0/CarsDictionary
+/Users/erictaylor/workspace/csharp/exercises/CarsDictionary/bin/Debug/netcoreapp3.0/CarsDictionary.deps.json
+/Users/erictaylor/workspace/csharp/exercises/CarsDictionary/bin/Debug/netcoreapp3.0/CarsDictionary.runtimeconfig.json
+/Users/erictaylor/workspace/csharp/exercises/CarsDictionary/bin/Debug/netcoreapp3.0/CarsDictionary.runtimeconfig.dev.json
+/Users/erictaylor/workspace/csharp/exercises/CarsDictionary/bin/Debug/netcoreapp3.0/CarsDictionary.dll
+/Users/erictaylor/workspace/csharp/exercises/CarsDictionary/bin/Debug/netcoreapp3.0/CarsDictionary.pdb
+/Users/erictaylor/workspace/csharp/exercises/CarsDictionary/obj/Debug/netcoreapp3.0/CarsDictionary.dll
+/Users/erictaylor/workspace/csharp/exercises/CarsDictionary/obj/Debug/netcoreapp3.0/CarsDictionary.pdb
